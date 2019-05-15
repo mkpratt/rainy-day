@@ -114,7 +114,7 @@ $RECYCLE.BIN/
 
 
 ### Less ###
-*.css
+# *.css
 
 
 ### grunt ###
@@ -150,4 +150,4 @@ sftp-config.json
 
 ### My Shiz ###
 build
-dist
+# dist
